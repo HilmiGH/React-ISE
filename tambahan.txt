@@ -1,1 +1,8 @@
-Ini merupakan tambahan
+Alur Github:
+
+Coding - VScode
+Commit
+Stage changes
+Push & pull
+Synchronize
+
